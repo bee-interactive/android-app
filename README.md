@@ -1,5 +1,7 @@
 ## Android base webview application
 
+This repository contains the base code for a webview application. Open it with Android Studio, change the url inside the MainActivity.java file, your application name and you're good to go.
+
 ## Disclaimer
 
 This application is provided as-is for demonstration, educational, or testing purposes only. It is **not intended for production use** and should not be relied upon for any mission-critical or security-sensitive applications.
