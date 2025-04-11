@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_status_bar">#ffffff</color>
+    <color name="dark_status_bar">#262626</color>
+    <color name="light_mode_text">#000000</color>
+</resources>
